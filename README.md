@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋🏾 Hi, I'm Sibulelo Mafrika
 
-<!--
-**SibuM12/SibuM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🎓 Business Administration Student | 🧠 Creative Problem Solver
 
-Here are some ideas to get you started:
+I’m a passionate, multi-skilled professional combining tech, strategy and people skills. With certifications in Full Stack Development and Cybersecurity — and a strong background in entrepreneurship, training and social media — I build tools that solve real-world problems and empower others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack:
+**Languages & Frameworks:** HTML, CSS, JavaScript, Python, Django  
+**Tools & Platforms:** GitHub, VS Code, Canva, WordPress, Trello, Jira, Confluence  
+**Cyber:** Network Security Basics, Threat Detection, TryHackMe, Awareness Toolkits  
+**Soft Skills:** Facilitation, Project Coordination, Business Strategy
+
+---
+
+## 📦 Current Projects:
+- 💼 Building a CRM app for small businesses using Django
+- 🌍 Creating a personal portfolio site with HTML/CSS
+- 🛡️ Launching a Cybersecurity Awareness Toolkit for SMEs
+
+---
+
+## 📫 Let’s Connect:
+- [LinkedIn](https://www.linkedin.com/in/sibulelo-mafrika-1541b71a2/)
+- 📧 mafrikasibulelo@gmail.com
