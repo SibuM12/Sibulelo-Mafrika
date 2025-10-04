@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🎓 Business Administration Student | 🧠 Creative Problem Solver
 
-I’m a passionate, multi-skilled professional combining tech, strategy and people skills. With certifications in Full Stack Development and Cybersecurity and a strong background in entrepreneurship, training and social media I build tools that solve real world problems and empower others.
+I’m a passionate, multi-skilled professional combining tech, strategy and people skills. With certifications in Full Stack Development, Cybersecurity and a strong background in entrepreneurship, training and social media I build tools that solve real world problems and empower others.
 
 ---
 
